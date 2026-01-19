@@ -43,7 +43,7 @@ Healthify is a scalable, microservices-based healthcare platform designed to del
 - Postman
 
 ## Installation
-git clone https://github.com/your-username/healthify.git  
+git clone https://github.com/Rohikumar6406/healthify.git  
 cd healthify  
 mvn clean install  
 
